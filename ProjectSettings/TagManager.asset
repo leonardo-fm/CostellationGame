@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mondo
+  - Satellite
+  - Nodo
+  - Morte
+  - Vittoria
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Mondo
+  - Nodi
+  - Morte
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sfondo
+    uniqueID: 59643427
+    locked: 0
+  - name: Vittoria
+    uniqueID: 674918607
+    locked: 0
+  - name: Nodi-Mondo
+    uniqueID: 2737508791
+    locked: 0
+  - name: Taglio
+    uniqueID: 68715855
+    locked: 0
+  - name: Satellite
+    uniqueID: 1453812181
+    locked: 0
+  - name: UI
+    uniqueID: 3335972171
+    locked: 0
